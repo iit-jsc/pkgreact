@@ -15,5 +15,7 @@ Chạy lệnh: npm i -g pkg
 ## Bước 4:
 
 Chạy lệnh: pkg . (Bao gồm dấu .)
-==> File được đặt ở thư mục dist. Copy file này vào thư mục bin (thư mục ngang vào với IITLauncher.exe)
-================================================================
+
+## Bước 5:
+
+# ==> File được đặt ở thư mục dist. Copy file này vào thư mục bin (thư mục ngang vào với IITLauncher.exe)
