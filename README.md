@@ -2,19 +2,20 @@
 
 ## Bước 1:
 
-Thay file import.xlsx tại đường dẫn sau: ![Nhấn ctrl rồi click vô chữ bên cạnh](import.png)
+Thay file import.xlsx tại đường dẫn sau:
+![](import.png)
 
 ## Bước 2:
 
-Chạy lệnh: yarn hoặc npm i
+Sử dụng lệnh yarn hoặc npm i để cài các phụ thuộc của dự án.
 
 ## Bước 3:
 
-Chạy lệnh: npm i -g pkg
+Sử dụng lệnh npm i -g pkg để cài pkg vào global.
 
 ## Bước 4:
 
-Chạy lệnh: pkg . (Bao gồm dấu .)
+Sử dụng lệnh pkg . (Bao gồm dấu .) để bắt đầu build file thực thi.
 
 ## Bước 5:
 
