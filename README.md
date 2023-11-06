@@ -2,21 +2,22 @@
 
 ## Bước 1:
 
-Thay file import.xlsx tại đường dẫn sau:
 ![](import.png)
+
+Thay file **_import.xlsx_** theo đường dẫn phía trên.
 
 ## Bước 2:
 
-Sử dụng lệnh yarn hoặc npm i để cài các phụ thuộc của dự án.
+Sử dụng lệnh **_yarn_** hoặc **_npm i_** để cài các phụ thuộc của dự án.
 
 ## Bước 3:
 
-Sử dụng lệnh npm i -g pkg để cài pkg vào global.
+Sử dụng lệnh **_npm i -g pkg_** để cài pkg vào global.
 
 ## Bước 4:
 
-Sử dụng lệnh pkg . (Bao gồm dấu .) để bắt đầu build file thực thi.
+Sử dụng lệnh **_pkg ._** (Bao gồm dấu .) để bắt đầu build file thực thi.
 
 ## Bước 5:
 
-Copy file thực thi (nằm trong folder dist) vào thư mục bin (thư mục ngang vào với IITLauncher.exe)
+Copy file thực thi (nằm trong folder **_dist_**) vào thư mục **_bin_** (thư mục ngang vào với **_IITLauncher.exe_**)
