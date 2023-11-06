@@ -18,4 +18,4 @@ Chạy lệnh: pkg . (Bao gồm dấu .)
 
 ## Bước 5:
 
-# ==> File được đặt ở thư mục dist. Copy file này vào thư mục bin (thư mục ngang vào với IITLauncher.exe)
+Copy file thực thi (nằm trong folder dist) vào thư mục bin (thư mục ngang vào với IITLauncher.exe)
