@@ -1,0 +1,22 @@
+{
+  "name": "IITClient",
+  "version": "1.0.0",
+  "main": "main.js",
+  "bin": "main.js",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2"
+  },
+  "pkg": {
+    "assets": [
+      "build/**/*",
+      "data/**/*"
+    ],
+    "targets": [
+      "node16-win-x64"
+    ],
+    "outputPath": "dist"
+  }
+}

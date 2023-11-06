@@ -1,0 +1,20 @@
+{
+  "name": "Học liệu điện tử",
+  "short_name": "Học liệu điện tử",
+  "display": "standalone",
+  "start_url": "/",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "icons": [
+    {
+      "src": "logo/iit_logos.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "logo/iit_logos.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
